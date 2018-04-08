@@ -1,0 +1,9 @@
+C:\Users\extra\source\repos\Mutlu_Ciftci\DatabaseLogicalLayer\bin\Debug\DatabaseLogicalLayer.dll
+C:\Users\extra\source\repos\Mutlu_Ciftci\DatabaseLogicalLayer\bin\Debug\DatabaseLogicalLayer.pdb
+C:\Users\extra\source\repos\Mutlu_Ciftci\DatabaseLogicalLayer\bin\Debug\Entities.dll
+C:\Users\extra\source\repos\Mutlu_Ciftci\DatabaseLogicalLayer\bin\Debug\Entities.pdb
+C:\Users\extra\source\repos\Mutlu_Ciftci\DatabaseLogicalLayer\obj\Debug\DatabaseLogicalLayer.csprojResolveAssemblyReference.cache
+C:\Users\extra\source\repos\Mutlu_Ciftci\DatabaseLogicalLayer\obj\Debug\DatabaseLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\extra\source\repos\Mutlu_Ciftci\DatabaseLogicalLayer\obj\Debug\DatabaseLogicalLayer.csproj.CopyComplete
+C:\Users\extra\source\repos\Mutlu_Ciftci\DatabaseLogicalLayer\obj\Debug\DatabaseLogicalLayer.dll
+C:\Users\extra\source\repos\Mutlu_Ciftci\DatabaseLogicalLayer\obj\Debug\DatabaseLogicalLayer.pdb
