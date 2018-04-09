@@ -1,0 +1,7 @@
+C:\Users\extra\source\repos\CopyDatabase\CopyDatabase\bin\Debug\CopyDatabase.exe.config
+C:\Users\extra\source\repos\CopyDatabase\CopyDatabase\bin\Debug\CopyDatabase.exe
+C:\Users\extra\source\repos\CopyDatabase\CopyDatabase\bin\Debug\CopyDatabase.pdb
+C:\Users\extra\source\repos\CopyDatabase\CopyDatabase\obj\Debug\CopyDatabase.csprojResolveAssemblyReference.cache
+C:\Users\extra\source\repos\CopyDatabase\CopyDatabase\obj\Debug\CopyDatabase.csproj.CoreCompileInputs.cache
+C:\Users\extra\source\repos\CopyDatabase\CopyDatabase\obj\Debug\CopyDatabase.exe
+C:\Users\extra\source\repos\CopyDatabase\CopyDatabase\obj\Debug\CopyDatabase.pdb
