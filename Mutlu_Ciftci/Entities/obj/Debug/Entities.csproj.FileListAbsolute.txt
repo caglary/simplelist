@@ -4,3 +4,9 @@ C:\Users\extra\source\repos\Mutlu_Ciftci\Entities\obj\Debug\Entities.csproj.Core
 C:\Users\extra\source\repos\Mutlu_Ciftci\Entities\obj\Debug\Entities.dll
 C:\Users\extra\source\repos\Mutlu_Ciftci\Entities\obj\Debug\Entities.pdb
 C:\Users\extra\source\repos\Mutlu_Ciftci\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\extra\OneDrive\document\GitHub\simplelist\Mutlu_Ciftci\Entities\bin\Debug\Entities.dll
+C:\Users\extra\OneDrive\document\GitHub\simplelist\Mutlu_Ciftci\Entities\bin\Debug\Entities.pdb
+C:\Users\extra\OneDrive\document\GitHub\simplelist\Mutlu_Ciftci\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\extra\OneDrive\document\GitHub\simplelist\Mutlu_Ciftci\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\extra\OneDrive\document\GitHub\simplelist\Mutlu_Ciftci\Entities\obj\Debug\Entities.dll
+C:\Users\extra\OneDrive\document\GitHub\simplelist\Mutlu_Ciftci\Entities\obj\Debug\Entities.pdb

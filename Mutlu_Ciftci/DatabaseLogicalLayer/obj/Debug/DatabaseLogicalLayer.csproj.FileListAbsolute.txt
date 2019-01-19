@@ -7,3 +7,12 @@ C:\Users\extra\source\repos\Mutlu_Ciftci\DatabaseLogicalLayer\obj\Debug\Database
 C:\Users\extra\source\repos\Mutlu_Ciftci\DatabaseLogicalLayer\obj\Debug\DatabaseLogicalLayer.csproj.CopyComplete
 C:\Users\extra\source\repos\Mutlu_Ciftci\DatabaseLogicalLayer\obj\Debug\DatabaseLogicalLayer.dll
 C:\Users\extra\source\repos\Mutlu_Ciftci\DatabaseLogicalLayer\obj\Debug\DatabaseLogicalLayer.pdb
+C:\Users\extra\OneDrive\document\GitHub\simplelist\Mutlu_Ciftci\DatabaseLogicalLayer\bin\Debug\DatabaseLogicalLayer.dll
+C:\Users\extra\OneDrive\document\GitHub\simplelist\Mutlu_Ciftci\DatabaseLogicalLayer\bin\Debug\DatabaseLogicalLayer.pdb
+C:\Users\extra\OneDrive\document\GitHub\simplelist\Mutlu_Ciftci\DatabaseLogicalLayer\bin\Debug\Entities.dll
+C:\Users\extra\OneDrive\document\GitHub\simplelist\Mutlu_Ciftci\DatabaseLogicalLayer\bin\Debug\Entities.pdb
+C:\Users\extra\OneDrive\document\GitHub\simplelist\Mutlu_Ciftci\DatabaseLogicalLayer\obj\Debug\DatabaseLogicalLayer.csprojAssemblyReference.cache
+C:\Users\extra\OneDrive\document\GitHub\simplelist\Mutlu_Ciftci\DatabaseLogicalLayer\obj\Debug\DatabaseLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\extra\OneDrive\document\GitHub\simplelist\Mutlu_Ciftci\DatabaseLogicalLayer\obj\Debug\DatabaseLogicalLayer.csproj.CopyComplete
+C:\Users\extra\OneDrive\document\GitHub\simplelist\Mutlu_Ciftci\DatabaseLogicalLayer\obj\Debug\DatabaseLogicalLayer.dll
+C:\Users\extra\OneDrive\document\GitHub\simplelist\Mutlu_Ciftci\DatabaseLogicalLayer\obj\Debug\DatabaseLogicalLayer.pdb
