@@ -10,8 +10,11 @@ namespace BusinessLogicalLayer
 {
     public class BLL
     {
-        DatabaseLogicalLayer.DLL dll = new DatabaseLogicalLayer.DLL();
-
+        DatabaseLogicalLayer.DLL dll; 
+        public BLL()
+        {
+            dll= new DatabaseLogicalLayer.DLL();
+        }
         DataTable dt;
         int ReturnValues;
       
